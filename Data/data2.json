@@ -1,0 +1,242 @@
+﻿[
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "5:15\r\n13:45",
+		"gia": "345 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Quảng Bình",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "16:30\r\n1:00",
+		"gia": "185 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Ninh Bình",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "3:15\r\n11:45",
+		"gia": "300 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Thanh Hóa",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "1:15\r\n9:45",
+		"gia": "250 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Nghệ An",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "21:35\r\n6:05",
+		"gia": "225 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Thừa Thiên Huế",
+		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
+		"xuatPhat": "11:00\r\n19:30",
+		"denNoi": "13:00\r\n21:30",
+		"gia": "90 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
+		"tuyenDuong": "Đà Nẵng – Lâm Đồng",
+		"moTa": "Xe giường nằm 40 chỗ\r\nĐiều hòa\r\nNước uống",
+		"xuatPhat": "13:30\r\n14:30\r\n15:30\r\n16:30",
+		"denNoi": "5:00\r\n6:00\r\n7:00\r\n8:00",
+		"gia": "270 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
+		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
+		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
+		"xuatPhat": "9:45\r\n17:00",
+		"denNoi": "7:45\r\n15:00",
+		"gia": "430 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
+		"tuyenDuong": "Đà Nẵng – Quảng Ngãi",
+		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
+		"xuatPhat": "17:00",
+		"denNoi": "20:00",
+		"gia": "100 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
+		"tuyenDuong": "Đà Nẵng – Bình Định",
+		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
+		"xuatPhat": "7:00\r\n14:50",
+		"denNoi": "21:20\r\n13:30",
+		"gia": "160 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
+		"tuyenDuong": "Đà Nẵng – Đắk Lắk",
+		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
+		"xuatPhat": "17:00\r\n17:30",
+		"denNoi": "3:30\r\n4:00",
+		"gia": "300 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH CÚC TÙNG",
+		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "16:00",
+		"denNoi": "9:00",
+		"gia": "440 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH CÚC TÙNG",
+		"tuyenDuong": "Đà Nẵng – Khánh Hòa",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "19:00",
+		"denNoi": "6:00",
+		"gia": "250 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH THUẬN THẢO",
+		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
+		"xuatPhat": "11:00\r\n16:00\r\n17:40",
+		"denNoi": "9:00\r\n14:00\r\n15:40",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH THUẬN THẢO",
+		"tuyenDuong": "Đà Nẵng – Phú Yên",
+		"moTa": "Xe giường năm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "8:00\r\n18:00",
+		"denNoi": "18:00\r\n4:00",
+		"gia": "220 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH HÀ LINH BXMĐ",
+		"tuyenDuong": "Đà Nẵng – Khánh Hòa",
+		"moTa": "Giường nằm 46 chỗ (2s)\r\nNước uống\r\nĐiều hòa",
+		"xuatPhat": "17:00",
+		"denNoi": "4:50",
+		"gia": "220 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH HÀ LINH BXMĐ",
+		"tuyenDuong": "Đà Nẵng – Ninh Thuận",
+		"moTa": "Giường nằm 46 chỗ (2s)\r\nNước uống\r\nĐiều hòa",
+		"xuatPhat": "17:00",
+		"denNoi": "6:00",
+		"gia": "250 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH HOÀNG VÂN - ĐÀ NẴNG",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe 40 chỗ giường nằm\r\nCó điều hòa\r\nCó nước uống",
+		"xuatPhat": "17:00",
+		"denNoi": "8:00",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH ĐẠI PHÁT",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "16:00\r\n17:00",
+		"denNoi": "7:00\r\n8:00",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH HỒNG HẢI",
+		"tuyenDuong": "Đà Nẵng – Gia Lai",
+		"moTa": "Xe 40 chỗ giường nằm\r\nCó điều hòa\r\nCó nước uống",
+		"xuatPhat": "19:45\r\n20:15\r\n20:30\r\n21:00",
+		"denNoi": "4:45\r\n5:15\r\n5:30\r\n6:00",
+		"gia": "220 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH DANATRANCO",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "14:00\r\n17:30\r\n12:45",
+		"denNoi": "6:45\r\n8:00\r\n11:30",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH THANH SƠN",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe Giường nằm 45 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "16:30",
+		"denNoi": "6:30",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH TUẤN NAM",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
+		"xuatPhat": "16:30",
+		"denNoi": "7:30",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH TUẤN NAM",
+		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
+		"xuatPhat": "15:00",
+		"denNoi": "7:00",
+		"gia": "450 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH TÙNG VY",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe Giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "12:00",
+		"denNoi": "6:00",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH THUẬN TIẾN",
+		"tuyenDuong": "Đà Nẵng – Gia Lai",
+		"moTa": "Xe giường nằm 40 chỗ\r\nNước uống\r\nĐiều hòa\r\nChăn đắp",
+		"xuatPhat": "18:30",
+		"denNoi": "4:30",
+		"gia": "300 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH THUẬN TIẾN",
+		"tuyenDuong": "Đà Nẵng – Gia Lai",
+		"moTa": "Xe giường nằm 44 chỗ\r\nNước uống\r\nĐiều hòa\r\nChăn đắp",
+		"xuatPhat": "19:10",
+		"denNoi": "4:10",
+		"gia": "220 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH NGỌC ÁNH HÀ NỘI",
+		"tuyenDuong": "Đà Nẵng – Hà Nội",
+		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
+		"xuatPhat": "15:00\r\n18:00",
+		"denNoi": "12:00\r\n15:00",
+		"gia": "380 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH NGỌC ÁNH HÀ NỘI",
+		"tuyenDuong": "Đà Nẵng – Hải Phòng",
+		"moTa": "Giường nằm 40 chỗ\r\nNước uống\r\nĐiều hòa",
+		"xuatPhat": "15:30",
+		"denNoi": "7:30",
+		"gia": "400 000"
+	},
+	{
+		"nhaXe": "XE KHÁCH TÂN QUÝ",
+		"tuyenDuong": "Đà Nẵng – Đắk Lắk",
+		"moTa": "Xe giường nằm 40 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
+		"xuatPhat": "17:00",
+		"denNoi": "5:00",
+		"gia": "320 000"
+	}
+]
