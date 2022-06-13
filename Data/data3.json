@@ -1,170 +1,212 @@
-[
+﻿[
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ LẠT",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAA2ElEQVR4AQHNADL/AYLX9PEaCgQOGQUBABYEAQAH9uoABvz1APUEDwCqu70A/PbyAC8tMgAERBEDDgcCAAAMBAEAB/rxAO3UuAAN/OwADi5PAEAuKACbk30A5t7HAALczL0A+OjbABQIAgAK8+MABti9APzm0wAG+/AAQzIqAJCCigAU9tkABKOjmAAcHh0A9fXsAB378wBHLysABuzhAN2jiAAuOxUAEzZoABIGAQAE5NfY8uTc1w727/IA3A0KABj9+wAIAfwA/fn6AO33+QD10IEA19vvADRpUIPgk+dWAAAAAElFTkSuQmCC",
-		"gia": "280.000đ",
-		"quangDuong": "310km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Đà Lạt",
+		"note": "Giường nằm",
+		"price": "250.000đ/ vé",
+		"timeStart": "8h hàng ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ NHA TRANG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAzElEQVR4AQXBsU7CQACA4f+OOxpDqUG74GQYxEFxMk5sPoHRd/GVHFgcjCwuxmgkEYKLMTHRpBIkGqBSqe1dj+8T5xe9eVEQSAFl6TCm4D8z5NaSpAaBwzlQZ2E/eIl/eY2GxPGEVuuEzfCQp8+EwJf4SlD1BMqNvmmuKcbpB772WMwGPE6n3Iwds9xDW9C5QXWHl5jKFlY2EMen7L/dUxc/6FLEKP3ja5GRVWrIjZ12vBRzdtcTDhp7PIRNru46PF/fot97+NtH5JFlBS9wU+SAfcGSAAAAAElFTkSuQmCC",
-		"gia": "235.000đ",
-		"quangDuong": "450km",
-		"thoiGian": "9h"
+		"route": "Sài Gòn – Buôn Mê Thuột",
+		"note": "Giường nằm",
+		"price": "240.000đ/ vé",
+		"timeStart": "8h45 – 12h15 – 14h -20h30 – 21h30 – 22h – 22h30 -23h"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ NẴNG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQXB3UrCUADA8f85ul3U6RxnU6z1oYEgMi98g7zoBQQfxrsezjsFCQQHUZbd5Ac6HDqmtvX7iXL/NVTaMeF6QW2yYfWzoHCpqHkeJeeawXhIJnPIqlc1ZvtFMRhRvBMYGx5dxXH/jfibc++CthOkqzL8bo9ymvCUhTy3rjgfQ8xFhJV+YokDzYeU/HQ/Q8Ua38tjRIR0fNrqht/zhpgldT/HKbaRVhDsKtM3ZkLzvjzQsD8YTwYku4iXzi2nxOBqzT9OjkScv5fOjgAAAABJRU5ErkJggg==",
-		"gia": "390.000đ",
-		"quangDuong": "980km",
-		"thoiGian": "20h"
+		"route": "Sài Gòn – Nha Trang",
+		"note": "Giường nằm",
+		"price": "225.000đ/ vé",
+		"timeStart": "8h – 9h – 10h – 10h30 – 12h -20h – 20h45 – 21h – 21h30 – 22h – 22h30 – 23h -24h"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CẦN THƠ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBu27CMABA0WtjXooapi4oQoIJBj6haxc2tu79zJadEQmBhCALIhGPFGKHNonB6Tnic6ZTKfCfwMgdmPRf+L56fCV1tAVrn/gNUB/9mo8QbOOYoKEIHz7N6o9poAgzoJIMlUaV0QbroJun9LwSyQ9eIdHGMa4El+uNcyVRUQ7CPdCuQ3FPCLKQ3XrH6phTvA4IF3Pe3ieo/U2n2d10zsZwaoFpFyyjhG2coH9r5KVFl5Z/9GZbDIwyWVgAAAAASUVORK5CYII=",
-		"gia": "160.000đ",
-		"quangDuong": "190km",
-		"thoiGian": "4h"
+		"route": "Sài Gòn – Phan Thiết",
+		"note": "Giường nằm",
+		"price": "140.000đ/ vé",
+		"timeStart": "7h15 – 8h30 – 10h15 – 13h30 – 15h30 – 19h15 – 23h"
 	},
 	{
-		"tuyenDuong": "ĐÀ NẴNG ⇒ HÀ NỘI",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBTU7CUBSA0e/deyvYSLHRRwiYmDhxKCMnbMC5I5fpIpwaN2CiI00s2AqFR38enuOWT49l0xzHosbd9ZxZMuK9KPiOK2b+lKKouL+5xXZ1GO9qmPoejS2mQp5mvH1+8FX9kjnj+eUVO0+UfBrx3hhdKtuuZOCFydowlzAwYduk2MptOGwi/fDA5CKgrRBV6c8CYo56f6Q66RCMPxsK5V6RLkOCsf4JEFPm+RWhb3lYLPgHn15DnjjHa7EAAAAASUVORK5CYII=",
-		"gia": "355.000đ",
-		"quangDuong": "745km",
-		"thoiGian": "18h"
+		"route": "Sài Gòn – Đà Nẵng",
+		"note": "Giường nằm",
+		"price": "375.000đ/ vé",
+		"timeStart": "10h30 – 11h35 – 13h – 14h30 – 16h30 – 18h30 – 19h45"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ RẠCH GIÁ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyElEQVR4AQXBz0vCYBzA4c/rvns35txsIImH3MVCBPHirWsEo1P36K/r2CHoP6hjHkUKC+pUmPouRPazeh513O6lZm+CXZUzHCVcJddQZNw/3vLwdIdn2YSOT+M7N8G6yChVxOLFId+65LuS+dsKcaakVclXliJiK9rWGK0naJmy3Xi4tqBUgqvf4W9FXX8gnWbIaHiO7E+oAE8r7EaLXsuQ/fY57JyxfL1BTieXP1F3EIR+zIH1jNI1kSdcOEd8miZx3MUvZvwDffc/4/p0HncAAAAASUVORK5CYII=",
-		"gia": "180.000đ",
-		"quangDuong": "235km",
-		"thoiGian": "5h"
+		"route": "Sài Gòn – Huế",
+		"note": "Giường nằm",
+		"price": "380.000đ/ vé",
+		"timeStart": "8h30 – 14h00"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CHÂU ĐỐC",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyUlEQVR4AQXBT0vCYADA4d/c68ylQz1lghtUtw4dpE/TrW/Qd/Ig3qVLHgoklGhiRXQIKsmLMFobmy/vH5/Hub2f/p2dXgTWwt1kSPz0SBSdcHV9A24NYyxSaypJsg3KXcHLasb6852uL5Ay4+11DiqnLDNcNCJNN8TPU77iGW3fpRNGCKn4/Vjw873E0w6NVgvxMBrj7XLCzgH1XkiebnCdKvY/ISkkfnjE3FsjzgeXaTc4DJTVZMZgKgqrFPXjPr28gKZPs9yyBzqmWEi9P2dmAAAAAElFTkSuQmCC",
-		"gia": "165.000đ",
-		"quangDuong": "240km",
-		"thoiGian": "6h"
+		"route": "Sài Gòn – Ninh Hòa",
+		"note": "Giường nằm",
+		"price": "225.000đ/vé",
+		"timeStart": "21h00"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CÀ MAU",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQ3BsUsCURzA8e/vvWd3dnLZLQ1NQpC2hVBLa1vQ3l8j2Nb/01YE0RQEtoho0A3iUCln6r27dzzr85G7/m3WPT2Ld1sniNJ4t8brOqGGwChKV6LYYrpXN3FcDxD+CQTlF67ZwoiiqDyoHaJQ0Ito0Eu/R7y83VNkKcdYDg4TqtkDemv5dSGrjcW45YTB+weIUOTPRD8J+fCJabNDlD1S4dlPjjDyaZfttY1rRrGXGhrXl/jGBavwnNpmwXw+ZDx+5Q8xaUh5ycL+oAAAAABJRU5ErkJggg==",
-		"gia": "220.000đ",
-		"quangDuong": "357km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Quy Nhơn",
+		"note": "Giường nằm",
+		"price": "265.000đ/ vé",
+		"timeStart": "18h – 19h – 20h – 20h05"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ LẠT",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAA2ElEQVR4AQHNADL/AYLX9PEaCgQOGQUBABYEAQAH9uoABvz1APUEDwCqu70A/PbyAC8tMgAERBEDDgcCAAAMBAEAB/rxAO3UuAAN/OwADi5PAEAuKACbk30A5t7HAALczL0A+OjbABQIAgAK8+MABti9APzm0wAG+/AAQzIqAJCCigAU9tkABKOjmAAcHh0A9fXsAB378wBHLysABuzhAN2jiAAuOxUAEzZoABIGAQAE5NfY8uTc1w727/IA3A0KABj9+wAIAfwA/fn6AO33+QD10IEA19vvADRpUIPgk+dWAAAAAElFTkSuQmCC",
-		"gia": "280.000đ",
-		"quangDuong": "310km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Quảng Ngãi",
+		"note": "Giường nằm",
+		"price": "315.000đ/ vé",
+		"timeStart": "13h30 -15h30 – 18h -19h30"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ NHA TRANG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAzElEQVR4AQXBsU7CQACA4f+OOxpDqUG74GQYxEFxMk5sPoHRd/GVHFgcjCwuxmgkEYKLMTHRpBIkGqBSqe1dj+8T5xe9eVEQSAFl6TCm4D8z5NaSpAaBwzlQZ2E/eIl/eY2GxPGEVuuEzfCQp8+EwJf4SlD1BMqNvmmuKcbpB772WMwGPE6n3Iwds9xDW9C5QXWHl5jKFlY2EMen7L/dUxc/6FLEKP3ja5GRVWrIjZ12vBRzdtcTDhp7PIRNru46PF/fot97+NtH5JFlBS9wU+SAfcGSAAAAAElFTkSuQmCC",
-		"gia": "235.000đ",
-		"quangDuong": "450km",
-		"thoiGian": "9h"
+		"route": "Sài Gòn – Tuy Hòa",
+		"note": "Giường nằm",
+		"price": "240.000đ/vé",
+		"timeStart": "18h15 – 19h – 20h45"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ NẴNG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQXB3UrCUADA8f85ul3U6RxnU6z1oYEgMi98g7zoBQQfxrsezjsFCQQHUZbd5Ac6HDqmtvX7iXL/NVTaMeF6QW2yYfWzoHCpqHkeJeeawXhIJnPIqlc1ZvtFMRhRvBMYGx5dxXH/jfibc++CthOkqzL8bo9ymvCUhTy3rjgfQ8xFhJV+YokDzYeU/HQ/Q8Ua38tjRIR0fNrqht/zhpgldT/HKbaRVhDsKtM3ZkLzvjzQsD8YTwYku4iXzi2nxOBqzT9OjkScv5fOjgAAAABJRU5ErkJggg==",
-		"gia": "390.000đ",
-		"quangDuong": "980km",
-		"thoiGian": "20h"
+		"route": "Sài Gòn – Vũng Tàu",
+		"note": "Giường nằm",
+		"price": "115.000đ/ vé",
+		"timeStart": "25 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CẦN THƠ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBu27CMABA0WtjXooapi4oQoIJBj6haxc2tu79zJadEQmBhCALIhGPFGKHNonB6Tnic6ZTKfCfwMgdmPRf+L56fCV1tAVrn/gNUB/9mo8QbOOYoKEIHz7N6o9poAgzoJIMlUaV0QbroJun9LwSyQ9eIdHGMa4El+uNcyVRUQ7CPdCuQ3FPCLKQ3XrH6phTvA4IF3Pe3ieo/U2n2d10zsZwaoFpFyyjhG2coH9r5KVFl5Z/9GZbDIwyWVgAAAAASUVORK5CYII=",
-		"gia": "160.000đ",
-		"quangDuong": "190km",
-		"thoiGian": "4h"
+		"route": "Sài Gòn – Bạc Liêu",
+		"note": "Giường nằm",
+		"price": "170.000đ/ vé",
+		"timeStart": "8h15 – 9h15 – 10h15 – 12h15 – 14h15 – 18h15 – 22h15 – 23h15 – 24h00"
 	},
 	{
-		"tuyenDuong": "ĐÀ NẴNG ⇒ HÀ NỘI",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBTU7CUBSA0e/deyvYSLHRRwiYmDhxKCMnbMC5I5fpIpwaN2CiI00s2AqFR38enuOWT49l0xzHosbd9ZxZMuK9KPiOK2b+lKKouL+5xXZ1GO9qmPoejS2mQp5mvH1+8FX9kjnj+eUVO0+UfBrx3hhdKtuuZOCFydowlzAwYduk2MptOGwi/fDA5CKgrRBV6c8CYo56f6Q66RCMPxsK5V6RLkOCsf4JEFPm+RWhb3lYLPgHn15DnjjHa7EAAAAASUVORK5CYII=",
-		"gia": "355.000đ",
-		"quangDuong": "745km",
-		"thoiGian": "18h"
+		"route": "Sài Gòn – Cà Mau",
+		"note": "Giường nằm",
+		"price": "210.000đ/ vé",
+		"timeStart": "27 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ RẠCH GIÁ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyElEQVR4AQXBz0vCYBzA4c/rvns35txsIImH3MVCBPHirWsEo1P36K/r2CHoP6hjHkUKC+pUmPouRPazeh513O6lZm+CXZUzHCVcJddQZNw/3vLwdIdn2YSOT+M7N8G6yChVxOLFId+65LuS+dsKcaakVclXliJiK9rWGK0naJmy3Xi4tqBUgqvf4W9FXX8gnWbIaHiO7E+oAE8r7EaLXsuQ/fY57JyxfL1BTieXP1F3EIR+zIH1jNI1kSdcOEd8miZx3MUvZvwDffc/4/p0HncAAAAASUVORK5CYII=",
-		"gia": "180.000đ",
-		"quangDuong": "235km",
-		"thoiGian": "5h"
+		"route": "Sài Gòn – Cần Thơ",
+		"note": "Giường nằm",
+		"price": "145.000đ",
+		"timeStart": "76 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CHÂU ĐỐC",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyUlEQVR4AQXBT0vCYADA4d/c68ylQz1lghtUtw4dpE/TrW/Qd/Ig3qVLHgoklGhiRXQIKsmLMFobmy/vH5/Hub2f/p2dXgTWwt1kSPz0SBSdcHV9A24NYyxSaypJsg3KXcHLasb6852uL5Ay4+11DiqnLDNcNCJNN8TPU77iGW3fpRNGCKn4/Vjw873E0w6NVgvxMBrj7XLCzgH1XkiebnCdKvY/ISkkfnjE3FsjzgeXaTc4DJTVZMZgKgqrFPXjPr28gKZPs9yyBzqmWEi9P2dmAAAAAElFTkSuQmCC",
-		"gia": "165.000đ",
-		"quangDuong": "240km",
-		"thoiGian": "6h"
+		"route": "Sài Gòn – Cao Lãnh",
+		"note": "Ghế",
+		"price": "115.000đ/ vé",
+		"timeStart": "16 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CÀ MAU",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQ3BsUsCURzA8e/vvWd3dnLZLQ1NQpC2hVBLa1vQ3l8j2Nb/01YE0RQEtoho0A3iUCln6r27dzzr85G7/m3WPT2Ld1sniNJ4t8brOqGGwChKV6LYYrpXN3FcDxD+CQTlF67ZwoiiqDyoHaJQ0Ito0Eu/R7y83VNkKcdYDg4TqtkDemv5dSGrjcW45YTB+weIUOTPRD8J+fCJabNDlD1S4dlPjjDyaZfttY1rRrGXGhrXl/jGBavwnNpmwXw+ZDx+5Q8xaUh5ycL+oAAAAABJRU5ErkJggg==",
-		"gia": "220.000đ",
-		"quangDuong": "357km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Châu Đốc",
+		"note": "Giường nằm",
+		"price": "155.000đ",
+		"timeStart": "34 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ LẠT",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAA2ElEQVR4AQHNADL/AYLX9PEaCgQOGQUBABYEAQAH9uoABvz1APUEDwCqu70A/PbyAC8tMgAERBEDDgcCAAAMBAEAB/rxAO3UuAAN/OwADi5PAEAuKACbk30A5t7HAALczL0A+OjbABQIAgAK8+MABti9APzm0wAG+/AAQzIqAJCCigAU9tkABKOjmAAcHh0A9fXsAB378wBHLysABuzhAN2jiAAuOxUAEzZoABIGAQAE5NfY8uTc1w727/IA3A0KABj9+wAIAfwA/fn6AO33+QD10IEA19vvADRpUIPgk+dWAAAAAElFTkSuQmCC",
-		"gia": "280.000đ",
-		"quangDuong": "310km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Hà Tiên",
+		"note": "Giường nằm",
+		"price": "185.000đ",
+		"timeStart": "8h15 – 9h15 – 10h30 – 11h30 – 12h30 – 20h30 – 21h30 – 23h05 – 00h05"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ NHA TRANG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAzElEQVR4AQXBsU7CQACA4f+OOxpDqUG74GQYxEFxMk5sPoHRd/GVHFgcjCwuxmgkEYKLMTHRpBIkGqBSqe1dj+8T5xe9eVEQSAFl6TCm4D8z5NaSpAaBwzlQZ2E/eIl/eY2GxPGEVuuEzfCQp8+EwJf4SlD1BMqNvmmuKcbpB772WMwGPE6n3Iwds9xDW9C5QXWHl5jKFlY2EMen7L/dUxc/6FLEKP3ja5GRVWrIjZ12vBRzdtcTDhp7PIRNru46PF/fot97+NtH5JFlBS9wU+SAfcGSAAAAAElFTkSuQmCC",
-		"gia": "235.000đ",
-		"quangDuong": "450km",
-		"thoiGian": "9h"
+		"route": "Sài Gòn – Hồng Ngự",
+		"note": "Giường nằm",
+		"price": "130.000đ",
+		"timeStart": "7h -10h -12h – 14h – 16h – 18h -21h30 -23h"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ ĐÀ NẴNG",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQXB3UrCUADA8f85ul3U6RxnU6z1oYEgMi98g7zoBQQfxrsezjsFCQQHUZbd5Ac6HDqmtvX7iXL/NVTaMeF6QW2yYfWzoHCpqHkeJeeawXhIJnPIqlc1ZvtFMRhRvBMYGx5dxXH/jfibc++CthOkqzL8bo9ymvCUhTy3rjgfQ8xFhJV+YokDzYeU/HQ/Q8Ua38tjRIR0fNrqht/zhpgldT/HKbaRVhDsKtM3ZkLzvjzQsD8YTwYku4iXzi2nxOBqzT9OjkScv5fOjgAAAABJRU5ErkJggg==",
-		"gia": "390.000đ",
-		"quangDuong": "980km",
-		"thoiGian": "20h"
+		"route": "Sài Gòn – Long Xuyên",
+		"note": "Giường nằm",
+		"price": "150.000đ",
+		"timeStart": "38 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CẦN THƠ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBu27CMABA0WtjXooapi4oQoIJBj6haxc2tu79zJadEQmBhCALIhGPFGKHNonB6Tnic6ZTKfCfwMgdmPRf+L56fCV1tAVrn/gNUB/9mo8QbOOYoKEIHz7N6o9poAgzoJIMlUaV0QbroJun9LwSyQ9eIdHGMa4El+uNcyVRUQ7CPdCuQ3FPCLKQ3XrH6phTvA4IF3Pe3ieo/U2n2d10zsZwaoFpFyyjhG2coH9r5KVFl5Z/9GZbDIwyWVgAAAAASUVORK5CYII=",
-		"gia": "160.000đ",
-		"quangDuong": "190km",
-		"thoiGian": "4h"
+		"route": "Sài Gòn – Mũi Né",
+		"note": "Giường nằm",
+		"price": "140.000đ",
+		"timeStart": "15 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "ĐÀ NẴNG ⇒ HÀ NỘI",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAuUlEQVR4AQXBTU7CUBSA0e/deyvYSLHRRwiYmDhxKCMnbMC5I5fpIpwaN2CiI00s2AqFR38enuOWT49l0xzHosbd9ZxZMuK9KPiOK2b+lKKouL+5xXZ1GO9qmPoejS2mQp5mvH1+8FX9kjnj+eUVO0+UfBrx3hhdKtuuZOCFydowlzAwYduk2MptOGwi/fDA5CKgrRBV6c8CYo56f6Q66RCMPxsK5V6RLkOCsf4JEFPm+RWhb3lYLPgHn15DnjjHa7EAAAAASUVORK5CYII=",
-		"gia": "355.000đ",
-		"quangDuong": "745km",
-		"thoiGian": "18h"
+		"route": "Sài Gòn – Năm Căn",
+		"note": "Giường nằm",
+		"price": "210.000đ",
+		"timeStart": "7h45 – 8h45 – 20h45 – 21h45"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ RẠCH GIÁ",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyElEQVR4AQXBz0vCYBzA4c/rvns35txsIImH3MVCBPHirWsEo1P36K/r2CHoP6hjHkUKC+pUmPouRPazeh513O6lZm+CXZUzHCVcJddQZNw/3vLwdIdn2YSOT+M7N8G6yChVxOLFId+65LuS+dsKcaakVclXliJiK9rWGK0naJmy3Xi4tqBUgqvf4W9FXX8gnWbIaHiO7E+oAE8r7EaLXsuQ/fY57JyxfL1BTieXP1F3EIR+zIH1jNI1kSdcOEd8miZx3MUvZvwDffc/4/p0HncAAAAASUVORK5CYII=",
-		"gia": "180.000đ",
-		"quangDuong": "235km",
-		"thoiGian": "5h"
+		"route": "Sài Gòn – Thốt Nốt",
+		"note": "Giường nằm",
+		"price": "145.000đ",
+		"timeStart": "11 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CHÂU ĐỐC",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAyUlEQVR4AQXBT0vCYADA4d/c68ylQz1lghtUtw4dpE/TrW/Qd/Ig3qVLHgoklGhiRXQIKsmLMFobmy/vH5/Hub2f/p2dXgTWwt1kSPz0SBSdcHV9A24NYyxSaypJsg3KXcHLasb6852uL5Ay4+11DiqnLDNcNCJNN8TPU77iGW3fpRNGCKn4/Vjw873E0w6NVgvxMBrj7XLCzgH1XkiebnCdKvY/ISkkfnjE3FsjzgeXaTc4DJTVZMZgKgqrFPXjPr28gKZPs9yyBzqmWEi9P2dmAAAAAElFTkSuQmCC",
-		"gia": "165.000đ",
-		"quangDuong": "240km",
-		"thoiGian": "6h"
+		"route": "Sài Gòn – Rạch Giá",
+		"note": "Giường nằm",
+		"price": "165.000đ",
+		"timeStart": "39 chuyến/ ngày"
 	},
 	{
-		"tuyenDuong": "SÀI GÒN ⇒ CÀ MAU",
-		"anh": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAx0lEQVR4AQ3BsUsCURzA8e/vvWd3dnLZLQ1NQpC2hVBLa1vQ3l8j2Nb/01YE0RQEtoho0A3iUCln6r27dzzr85G7/m3WPT2Ld1sniNJ4t8brOqGGwChKV6LYYrpXN3FcDxD+CQTlF67ZwoiiqDyoHaJQ0Ito0Eu/R7y83VNkKcdYDg4TqtkDemv5dSGrjcW45YTB+weIUOTPRD8J+fCJabNDlD1S4dlPjjDyaZfttY1rRrGXGhrXl/jGBavwnNpmwXw+ZDx+5Q8xaUh5ycL+oAAAAABJRU5ErkJggg==",
-		"gia": "220.000đ",
-		"quangDuong": "357km",
-		"thoiGian": "8h"
+		"route": "Sài Gòn – Sa Đéc",
+		"note": "Ghế",
+		"price": "115.000đ/ vé",
+		"timeStart": "3 chuyến/ ngày"
+	},
+	{
+		"route": "Sài Gòn – Sóc Trăng",
+		"note": "Giường nằm",
+		"price": "155.000đ",
+		"timeStart": "21 chuyến/ ngày"
+	},
+	{
+		"route": "Sài Gòn – Trà Vinh",
+		"note": "Giường nằm",
+		"price": "115.000đ",
+		"timeStart": "12 chuyến/ ngày"
+	},
+	{
+		"route": "Sài Gòn – Vị Thanh",
+		"note": "Giường nằm",
+		"price": "150.000đ",
+		"timeStart": "17 chuyến/ ngày"
+	},
+	{
+		"route": "Đà Lạt – Sài Gòn",
+		"note": "Giường nằm",
+		"price": "250.000đ",
+		"timeStart": "35 chuyến/ ngày"
+	},
+	{
+		"route": "Đà Lạt – Cần Thơ",
+		"note": "Giường nằm",
+		"price": "360.000đ",
+		"timeStart": "2 chuyến/ ngày"
+	},
+	{
+		"route": "Đà Lạt – Đà Nẵng",
+		"note": "Giường nằm",
+		"price": "285.000đ",
+		"timeStart": "3 chuyến/ ngày"
+	},
+	{
+		"route": "Đà Lạt – Nha Trang",
+		"note": "Giường nằm",
+		"price": "135.000đ",
+		"timeStart": "3 chuyến/ ngày"
+	},
+	{
+		"route": "Đà Nẵng – Bảo Lộc",
+		"note": "Giường nằm",
+		"price": "320.000đ",
+		"timeStart": "11h – 12h"
+	},
+	{
+		"route": "Đà Nẵng – Sài Gòn",
+		"note": "Giường nằm",
+		"price": "375.000đ",
+		"timeStart": "10h15 – 13h30 – 14h05 – 15h – 16h – 18h -19h"
+	},
+	{
+		"route": "Đà Nẵng – Đà Lạt",
+		"note": "Giường nằm",
+		"price": "285.000đ",
+		"timeStart": "5 chuyến/ ngày"
+	},
+	{
+		"route": "Nha Trang – Sài Gòn",
+		"note": "Giường nằm",
+		"price": "225.000đ",
+		"timeStart": "8 chuyến/ ngày"
 	}
 ]

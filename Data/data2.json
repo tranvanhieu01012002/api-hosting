@@ -1,242 +1,1097 @@
 ﻿[
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "5:15\r\n13:45",
-		"gia": "345 000"
+		"route": "Bến xe Miền Đông đi Đà Nẵng",
+		"homeCar": "Phi Hiệp",
+		"price": "450.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Quảng Bình",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "16:30\r\n1:00",
-		"gia": "185 000"
+		"route": "Bến xe Miền Đông đi Đà Nẵng",
+		"homeCar": "Quốc Tín",
+		"price": "300.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Ninh Bình",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "3:15\r\n11:45",
-		"gia": "300 000"
+		"route": "Bến xe Miền Đông đi Đà Nẵng",
+		"homeCar": "A Tỷ",
+		"price": "350.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Thanh Hóa",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "1:15\r\n9:45",
-		"gia": "250 000"
+		"route": "Bến xe Miền Đông đi Đà Nẵng",
+		"homeCar": "Minh Phương",
+		"price": "440.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Nghệ An",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "21:35\r\n6:05",
-		"gia": "225 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Hiền Phước",
+		"price": "900.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Thừa Thiên Huế",
-		"moTa": "Xe chất lượng cao 45 chỗ\r\nĐiều hòa suốt tuyến\r\nKhăn lạnh và nước mát",
-		"xuatPhat": "11:00\r\n19:30",
-		"denNoi": "13:00\r\n21:30",
-		"gia": "90 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Ngọc Lễ",
+		"price": "900.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH PHƯƠNG TRANG",
-		"tuyenDuong": "Đà Nẵng – Lâm Đồng",
-		"moTa": "Xe giường nằm 40 chỗ\r\nĐiều hòa\r\nNước uống",
-		"xuatPhat": "13:30\r\n14:30\r\n15:30\r\n16:30",
-		"denNoi": "5:00\r\n6:00\r\n7:00\r\n8:00",
-		"gia": "270 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Phương Tuấn",
+		"price": "900.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
-		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
-		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
-		"xuatPhat": "9:45\r\n17:00",
-		"denNoi": "7:45\r\n15:00",
-		"gia": "430 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "HTX xe khách Trung Nam",
+		"price": "900.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
-		"tuyenDuong": "Đà Nẵng – Quảng Ngãi",
-		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
-		"xuatPhat": "17:00",
-		"denNoi": "20:00",
-		"gia": "100 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Anh Tuyên (Hà Nội)",
+		"price": "800.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
-		"tuyenDuong": "Đà Nẵng – Bình Định",
-		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
-		"xuatPhat": "7:00\r\n14:50",
-		"denNoi": "21:20\r\n13:30",
-		"gia": "160 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Nam Quân",
+		"price": "700.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH MAI LINH EXPRESS",
-		"tuyenDuong": "Đà Nẵng – Đắk Lắk",
-		"moTa": "Xe giường nằm 41 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
-		"xuatPhat": "17:00\r\n17:30",
-		"denNoi": "3:30\r\n4:00",
-		"gia": "300 000"
+		"route": "Bến xe Miền Đông đi Hà Nội",
+		"homeCar": "Tuấn Duyên",
+		"price": "650.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH CÚC TÙNG",
-		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "16:00",
-		"denNoi": "9:00",
-		"gia": "440 000"
+		"route": "Bến xe Miền Đông đi Hải Phòng",
+		"homeCar": "Ngọc Chóng",
+		"price": "700.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH CÚC TÙNG",
-		"tuyenDuong": "Đà Nẵng – Khánh Hòa",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "19:00",
-		"denNoi": "6:00",
-		"gia": "250 000"
+		"route": "Bến xe Miền Đông đi Đất Đỏ",
+		"homeCar": "Phước Hải",
+		"price": "60.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH THUẬN THẢO",
-		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
-		"xuatPhat": "11:00\r\n16:00\r\n17:40",
-		"denNoi": "9:00\r\n14:00\r\n15:40",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Xuyên Mộc",
+		"homeCar": "Lan Thanh",
+		"price": "65.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH THUẬN THẢO",
-		"tuyenDuong": "Đà Nẵng – Phú Yên",
-		"moTa": "Xe giường năm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "8:00\r\n18:00",
-		"denNoi": "18:00\r\n4:00",
-		"gia": "220 000"
+		"route": "Bến xe Miền Đông đi Xuyên Mộc",
+		"homeCar": "Minh Trang",
+		"price": "60.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH HÀ LINH BXMĐ",
-		"tuyenDuong": "Đà Nẵng – Khánh Hòa",
-		"moTa": "Giường nằm 46 chỗ (2s)\r\nNước uống\r\nĐiều hòa",
-		"xuatPhat": "17:00",
-		"denNoi": "4:50",
-		"gia": "220 000"
+		"route": "Bến xe Miền Đông đi Long Hải",
+		"homeCar": "Hoàng Mai",
+		"price": "60.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH HÀ LINH BXMĐ",
-		"tuyenDuong": "Đà Nẵng – Ninh Thuận",
-		"moTa": "Giường nằm 46 chỗ (2s)\r\nNước uống\r\nĐiều hòa",
-		"xuatPhat": "17:00",
-		"denNoi": "6:00",
-		"gia": "250 000"
+		"route": "Bến xe Miền Đông đi Xuyên Mộc",
+		"homeCar": "Thanh Phong",
+		"price": "60.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH HOÀNG VÂN - ĐÀ NẴNG",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe 40 chỗ giường nằm\r\nCó điều hòa\r\nCó nước uống",
-		"xuatPhat": "17:00",
-		"denNoi": "8:00",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Vũng Tàu",
+		"homeCar": "Hai Trâm",
+		"price": "65.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH ĐẠI PHÁT",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "16:00\r\n17:00",
-		"denNoi": "7:00\r\n8:00",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Xuyên Mộc",
+		"homeCar": "Hiến Hạnh",
+		"price": "65.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH HỒNG HẢI",
-		"tuyenDuong": "Đà Nẵng – Gia Lai",
-		"moTa": "Xe 40 chỗ giường nằm\r\nCó điều hòa\r\nCó nước uống",
-		"xuatPhat": "19:45\r\n20:15\r\n20:30\r\n21:00",
-		"denNoi": "4:45\r\n5:15\r\n5:30\r\n6:00",
-		"gia": "220 000"
+		"route": "Bến xe Miền Đông đi Đất Đỏ",
+		"homeCar": "Phúc Vinh",
+		"price": "65.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH DANATRANCO",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "14:00\r\n17:30\r\n12:45",
-		"denNoi": "6:45\r\n8:00\r\n11:30",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Quốc Phong",
+		"price": "240.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH THANH SƠN",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe Giường nằm 45 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "16:30",
-		"denNoi": "6:30",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Phù Mỹ",
+		"price": "280.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH TUẤN NAM",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
-		"xuatPhat": "16:30",
-		"denNoi": "7:30",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Hoài Nhơn",
+		"homeCar": "Yến Vân",
+		"price": "280.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH TUẤN NAM",
-		"tuyenDuong": "Đà Nẵng – TP Hồ Chí Minh",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó điều hòa\r\nCó nước uống",
-		"xuatPhat": "15:00",
-		"denNoi": "7:00",
-		"gia": "450 000"
+		"route": "Bến xe Miền Đông đi Hoài Nhơn",
+		"homeCar": "Gia Vỹ",
+		"price": "400.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH TÙNG VY",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe Giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "12:00",
-		"denNoi": "6:00",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Bảy Vinh",
+		"price": "250.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH THUẬN TIẾN",
-		"tuyenDuong": "Đà Nẵng – Gia Lai",
-		"moTa": "Xe giường nằm 40 chỗ\r\nNước uống\r\nĐiều hòa\r\nChăn đắp",
-		"xuatPhat": "18:30",
-		"denNoi": "4:30",
-		"gia": "300 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Cư Toàn",
+		"price": "260.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH THUẬN TIẾN",
-		"tuyenDuong": "Đà Nẵng – Gia Lai",
-		"moTa": "Xe giường nằm 44 chỗ\r\nNước uống\r\nĐiều hòa\r\nChăn đắp",
-		"xuatPhat": "19:10",
-		"denNoi": "4:10",
-		"gia": "220 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Minh Chánh",
+		"price": "280.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH NGỌC ÁNH HÀ NỘI",
-		"tuyenDuong": "Đà Nẵng – Hà Nội",
-		"moTa": "Xe giường nằm 40 chỗ\r\nCó nước uống\r\nCó điều hòa",
-		"xuatPhat": "15:00\r\n18:00",
-		"denNoi": "12:00\r\n15:00",
-		"gia": "380 000"
+		"route": "Bến xe Miền Đông đi Phù Cát",
+		"homeCar": "Tân Sinh",
+		"price": "300.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH NGỌC ÁNH HÀ NỘI",
-		"tuyenDuong": "Đà Nẵng – Hải Phòng",
-		"moTa": "Giường nằm 40 chỗ\r\nNước uống\r\nĐiều hòa",
-		"xuatPhat": "15:30",
-		"denNoi": "7:30",
-		"gia": "400 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Mười Trang",
+		"price": "250.000₫"
 	},
 	{
-		"nhaXe": "XE KHÁCH TÂN QUÝ",
-		"tuyenDuong": "Đà Nẵng – Đắk Lắk",
-		"moTa": "Xe giường nằm 40 chỗ\r\nĐiều hòa\r\nNước uống\r\nBao ăn",
-		"xuatPhat": "17:00",
-		"denNoi": "5:00",
-		"gia": "320 000"
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Mỹ Thanh",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Ngọc Đức",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Ngọc Thương",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Ngọc Minh",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Hoa Châu",
+		"price": "310.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Hoàng Dũng ( Quy Nhơn)",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Bình Minh",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Thanh Hương",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Hùng Nga",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Dũng Nga",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hoài Nhơn",
+		"homeCar": "Thu Phương",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tây Sơn",
+		"homeCar": "Thành Long - Bình Định",
+		"price": "260.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hoài Nhơn",
+		"homeCar": "Dũng Thủy",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Sáu Chương",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Mười Phượng",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Khoa Thanh",
+		"price": "260.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Tài Phát",
+		"price": "240.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quy Nhơn",
+		"homeCar": "Nguyên Khang",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Cát",
+		"homeCar": "Hồng Sơn ( Bình Định )",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phù Mỹ",
+		"homeCar": "Ngọc Bích",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Bù Gia Mập",
+		"homeCar": "Chín Tèo",
+		"price": "120.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phước Long",
+		"homeCar": "Mỹ Nga",
+		"price": "65.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đồng Xoài",
+		"homeCar": "Hòa Hưng",
+		"price": "60.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Lộc Ninh",
+		"homeCar": "Thuận Thành",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Bù Đăng",
+		"homeCar": "Anh Hà",
+		"price": "100.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đức Linh",
+		"homeCar": "9 Lan",
+		"price": "100.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "9 Lan",
+		"price": "100.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Sang Huy",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Phong",
+		"homeCar": "Đông Hưng",
+		"price": "135.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đức Linh",
+		"homeCar": "Tấn Cường(Tấn Đạt)",
+		"price": "72.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Tân Đông Phương",
+		"price": "77.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Minh Tơ",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đức Linh",
+		"homeCar": "Hoàng Anh - Đức Linh",
+		"price": "68.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phan Thiết",
+		"homeCar": "Hoàng Dũng",
+		"price": "130.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Thành Thủy",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Út Minh",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phan Thiết",
+		"homeCar": "Vũ Hoàng",
+		"price": "100.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Vượng Phát",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Việt Yên",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Sang Hoa",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hàm Tân",
+		"homeCar": "Thanh Ngọc",
+		"price": "85.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi La Gi",
+		"homeCar": "Thanh Ngọc",
+		"price": "85.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Tình Quý",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Thành Đạt",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Tý Lùn",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đức Linh",
+		"homeCar": "Linh Chi",
+		"price": "320.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tánh Linh",
+		"homeCar": "Hiệp Lợi",
+		"price": "93.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Mũi Né",
+		"homeCar": "Quang Sơn",
+		"price": "100.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cà Mau",
+		"homeCar": "Thành Châu",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pakse",
+		"homeCar": "Việt Lào",
+		"price": "800.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Thanh Trân",
+		"price": "210.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ea Kar",
+		"homeCar": "Thanh Trân",
+		"price": "210.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Thanh Khuê",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Bông",
+		"homeCar": "Hòa Liêm",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Cường Ny",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ea H`leo",
+		"homeCar": "Cường Ny",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Lạc Thiện",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Quyết Thắng",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Tân Quý",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Tây Nguyên",
+		"price": "290.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Ngọc Ánh (Đăk Lăk)",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ea H`leo",
+		"homeCar": "Ngọc Ánh (Đăk Lăk)",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ea Kar",
+		"homeCar": "Ngọc Đường",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Tư Thảo",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Năm Thùy",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Thanh Tùng",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Phương Hồng Trang",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "2 Hùng",
+		"price": "240.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Ana",
+		"homeCar": "Thiện Nga",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Cao Nguyên",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Hai Thuận",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Chí Tâm",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Chí Tâm",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Điều Hòa",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Hồ",
+		"homeCar": "Tư Trang",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Hưng Thịnh",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Buôn Ma Thuột",
+		"homeCar": "Phượng Thu Sài Gòn",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ea H`leo",
+		"homeCar": "Hưng Phát",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Lắk",
+		"homeCar": "Khách Lăk",
+		"price": "230.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Năng",
+		"homeCar": "Thanh Đương",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Năng",
+		"homeCar": "Phượng Thì ",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Mil",
+		"homeCar": "Kim Ngân - Đắk Nông",
+		"price": "170.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Tây Nguyên",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Hồng Phúc",
+		"price": "120.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Mil",
+		"homeCar": "Sỹ Hùng",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Huỳnh Hương",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Duyên Hà",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Hùng Kiên",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk R`Lấp",
+		"homeCar": "Nguyên Phụ",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Hữu Khánh",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Minh Tuấn (Đắk Nông)",
+		"price": "120.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Song",
+		"homeCar": "Hưng Thịnh",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Phượng Thu Sài Gòn",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Gia Nghĩa",
+		"homeCar": "Hoàng Long - Đắk Nông",
+		"price": "120.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Nô",
+		"homeCar": "Hoàng Long - Đắk Nông",
+		"price": "225.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Mil",
+		"homeCar": "Hoàng Long - Đắk Nông",
+		"price": "170.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cư Jút",
+		"homeCar": "Hoàng Long - Đắk Nông",
+		"price": "180.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Glong",
+		"homeCar": "Hoàng Long - Đắk Nông",
+		"price": "175.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Đức",
+		"homeCar": "Đức Phong",
+		"price": "140.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Vĩnh Cửu",
+		"homeCar": "Oanh Ngọc",
+		"price": "55.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cẩm Mỹ",
+		"homeCar": "Kim Lan",
+		"price": "53.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tân Phú",
+		"homeCar": "Kim Hoàn",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cẩm Mỹ",
+		"homeCar": "Huy Thành",
+		"price": "60.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tân Phú",
+		"homeCar": "Tân Phú",
+		"price": "65.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Xuân Lộc",
+		"homeCar": "Bảy Nở",
+		"price": "51.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cẩm Mỹ",
+		"homeCar": "Bảy Nở",
+		"price": "51.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ayun Pa",
+		"homeCar": "Cô Hai",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Pa",
+		"homeCar": "Cô Hai",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi An Khê",
+		"homeCar": "Cô Hai",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Bảo Thịnh",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Tây Nguyên",
+		"price": "290.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Hồng Hải",
+		"price": "300.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Trường Thành (Gia Lai)",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Chư Prông",
+		"homeCar": "Trường Thành (Gia Lai)",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Chư Sê",
+		"homeCar": "Tứ Loan",
+		"price": "270.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Chư Sê",
+		"homeCar": "Việt Tân Phát",
+		"price": "200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Việt Tân Phát",
+		"price": "210.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đăk Đoa",
+		"homeCar": "Việt Tân Phát",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi An Khê",
+		"homeCar": "Việt Tân Phát",
+		"price": "240.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ayun Pa",
+		"homeCar": "Việt Tân Phát",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ia Grai",
+		"homeCar": "Việt Tân Phát",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kông Chro",
+		"homeCar": "Việt Tân Phát",
+		"price": "310.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi An Khê",
+		"homeCar": "Phước Hưng",
+		"price": "285.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Phúc Hậu",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Krông Pa",
+		"homeCar": "Phúc Hoành",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Hưng Thịnh",
+		"price": "240.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Pleiku",
+		"homeCar": "Phượng Thu Sài Gòn",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thạch Hà",
+		"homeCar": "Huy Hoàng - Hà Tĩnh",
+		"price": "600.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thạch Hà",
+		"homeCar": "Hiếu Viện",
+		"price": "700.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thạch Hà",
+		"homeCar": "Loan Hợi",
+		"price": "650.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hải Dương",
+		"homeCar": "An Sinh",
+		"price": "900.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hải Dương",
+		"homeCar": "Anh Hưng",
+		"price": "850.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hải Dương",
+		"homeCar": "Hoàng Phong",
+		"price": "900.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Hải Dương",
+		"homeCar": "Nhẫn Việt",
+		"price": "900.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thakhek",
+		"homeCar": "Việt Lào",
+		"price": "1.300.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Nha Trang",
+		"homeCar": "Phương Trang",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Tây Nguyên",
+		"price": "290.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Việt Tân Phát",
+		"price": "210.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Ngọc Hồi",
+		"homeCar": "Việt Tân Phát",
+		"price": "220.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Đồng Tiến",
+		"price": "290.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Trường Giang",
+		"price": "290.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Nhật Tân",
+		"price": "330.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Tum",
+		"homeCar": "Phượng Thu Sài Gòn",
+		"price": "270.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kon Plông",
+		"homeCar": "Phượng Thu Sài Gòn",
+		"price": "270.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đạ Tẻh",
+		"homeCar": "Sơn Hải",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đạ Tẻh",
+		"homeCar": "Minh Thới",
+		"price": "80.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đạ Tẻh",
+		"homeCar": "Thảo Trang",
+		"price": "90.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Cát Tiên",
+		"homeCar": "Bốn Luyên",
+		"price": "150.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đà Lạt",
+		"homeCar": "Duy Quang (Lâm Đồng)",
+		"price": "170.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Giao Thủy",
+		"homeCar": "Việt Tân - Nam Định",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Giao Thủy",
+		"homeCar": "Tấn Hưng",
+		"price": "750.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Giao Thủy",
+		"homeCar": "Phúc Thủ",
+		"price": "700.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Giao Thủy",
+		"homeCar": "Huyền Phúc",
+		"price": "700.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Giao Thủy",
+		"homeCar": "Phú Quý Hưng",
+		"price": "700.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Kim Sơn",
+		"homeCar": "Hiếu Tài",
+		"price": "650.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phan Rang-Tháp Chàm",
+		"homeCar": "Trung Tuyến",
+		"price": "130.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Phú Thọ",
+		"homeCar": "Khoa Như Tĩnh",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Hòa",
+		"homeCar": "Cúc Tư",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Sơn Hòa",
+		"homeCar": "Cúc Tư",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đồng Xuân",
+		"homeCar": "Cúc Tư",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Sông Cầu",
+		"homeCar": "Cúc Tư",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Hòa",
+		"homeCar": "Vĩnh Tuyền",
+		"price": "260.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Hòa",
+		"homeCar": "Quốc Phong (Phú Yên)",
+		"price": "250.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tuy Hòa",
+		"homeCar": "Pokemon",
+		"price": "260.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đồng Xuân",
+		"homeCar": "Pokemon",
+		"price": "260.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quảng Trạch",
+		"homeCar": "Tuấn Linh",
+		"price": "600.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quảng Ngãi",
+		"homeCar": "Minh Thành",
+		"price": "300.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quảng Ngãi",
+		"homeCar": "Quốc Bảo (Quảng Ngãi)",
+		"price": "300.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quảng Ngãi",
+		"homeCar": "Đồng Trang",
+		"price": "280.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Quảng Ngãi",
+		"homeCar": "Minh Phương",
+		"price": "450.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Móng Cái",
+		"homeCar": "An Bình",
+		"price": "1.050.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đông Hà",
+		"homeCar": "Tiến Đạt Thành",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đông Hà",
+		"homeCar": "Tiến Thành",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Đông Hà",
+		"homeCar": "Trí Linh",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Savannakhet",
+		"homeCar": "Việt Lào",
+		"price": "1.200.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Sóc Trăng",
+		"homeCar": "Thuận Lơi",
+		"price": "120.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Tiền Hải",
+		"homeCar": "Xuân Thảo",
+		"price": "800.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thái Bình",
+		"homeCar": "Vĩnh Nhung",
+		"price": "750.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thái Bình",
+		"homeCar": "Lan Hưng",
+		"price": "650.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thái Nguyên",
+		"homeCar": "Thiên Thảo",
+		"price": "960.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Thanh Hóa",
+		"homeCar": "Hồng Chương",
+		"price": "550.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Tâm Minh Phương",
+		"price": "510.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Phương Trang",
+		"price": "360.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Ngọc Sanh",
+		"price": "450.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Minh Phương",
+		"price": "490.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Phi Long",
+		"price": "450.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Huế",
+		"homeCar": "Dũng Hường",
+		"price": "520.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Vientiane",
+		"homeCar": "Việt Lào",
+		"price": "1.400.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Vĩnh Yên",
+		"homeCar": "Bình Thân",
+		"price": "800.000₫"
+	},
+	{
+		"route": "Bến xe Miền Đông đi Vĩnh Yên",
+		"homeCar": "Nguyện Cần",
+		"price": "800.000₫"
 	}
 ]
