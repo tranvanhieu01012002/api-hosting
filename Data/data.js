@@ -8,13 +8,13 @@ module.exports = () => ({
       },
       {
          id:2,
-         name: "Trang web hôm nay tới lượt anh",
+         name: "Trang web bến xe miền Đông",
          web: require('./data2.json')
          
       },
       {  
          id:3,
-         name: "Trang web hôm nay là thứ 7",
+         name: "Trang web Giá vé xe Phương Trang",
          web: require('./data3.json')
          
       }

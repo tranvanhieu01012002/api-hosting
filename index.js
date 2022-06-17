@@ -2,7 +2,7 @@ const jsonServer = require('json-server')
 const server = jsonServer.create()
 const router = jsonServer.router(require("./Data/data")())
 const middlewares = jsonServer.defaults()
-
+console.log("ffffffff");
 server.use(middlewares)
 server.use(router)
 server.listen(4000, () => {
