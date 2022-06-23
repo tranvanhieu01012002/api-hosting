@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "description": "this is api in local",
   "main": "index.js",
+  "nodemonConfig": {
+    "ext": "json",
+    "ignore": [
+      "*.test.ts"
+    ]
+  
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"

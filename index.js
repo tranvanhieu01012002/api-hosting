@@ -13,4 +13,5 @@ var dateTime = date+' '+time;
 server.listen(4000, () => {
   console.log('JSON Server is running')
   console.log(dateTime);
-})
+})  ;
+console.log("start after crawl data"); 
